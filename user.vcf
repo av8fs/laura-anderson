@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Anderson;Jon;;;
+FN: Jon Anderson
+ORG:LCA;
+TITLE:Enterprise Transformation Expert
+PHOTO;VALUE=URI:https://av8fs.github.io/jon-anderson/NoBackground_Head.png
+EMAIL;type=INTERNET;type=Work;type=pref:jon@change-co.uk
+EMAIL;type=INTERNET;type=AI Assistant (Amelia);type=pref:amelia@kanati.ai
+TEL;type=UK;type=VOICE:+447393647131
+item2.URL;type=pref:www.change-co.uk
+item2.X-ABLabel:Website
+END:VCARD
